@@ -1,0 +1,157 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"ebc621a1-1a37-40e5-a5f5-bfea3447b722\" name=\"Default Changelist\" comment=\"HW Multimedia\">\n      <change afterPath=\"$PROJECT_DIR$/Home/HW_2/.gitignore\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Home/HW_2/.idea/HW_2.iml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Home/HW_2/.idea/codeStyles/codeStyleConfig.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Home/HW_2/.idea/modules.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Home/HW_2/.idea/vcs.xml\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1iqC8oGQ5yoYh1QayPMhtAb2AW2\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"ebc621a1-1a37-40e5-a5f5-bfea3447b722\" name=\"Default Changelist\" comment=\"\" />\n      <created>1602625579010</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1602625579010</updated>\n      <workItem from=\"1602625582419\" duration=\"1465000\" />\n      <workItem from=\"1604404294060\" duration=\"209000\" />\n      <workItem from=\"1604404567280\" duration=\"584000\" />\n      <workItem from=\"1604405305511\" duration=\"360000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"first hw\">\n      <created>1602626143112</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1602626143112</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"HW Multimedia\">\n      <created>1604404762594</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1604404762594</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"first hw\" />\n    <MESSAGE value=\"HW Multimedia\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"HW Multimedia\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"144\" y=\"79\" key=\"DiffContextDialog\" timestamp=\"1604404893635\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"144\" y=\"79\" key=\"DiffContextDialog/0.0.1440.900@0.0.1440.900\" timestamp=\"1604404893635\" />\n    <state x=\"320\" y=\"190\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1604405662467\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"320\" y=\"190\" key=\"Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900\" timestamp=\"1604405662467\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision cb86e7d8c86f07e8a6da52d38de26c0e8dcd45c8)
++++ .idea/workspace.xml	(date 1604424218546)
+@@ -4,26 +4,59 @@
+     <expand>
+       <path>
+         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+       </path>
+     </expand>
+-    <select />
++    <select>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </select>
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ebc621a1-1a37-40e5-a5f5-bfea3447b722" name="Default Changelist" comment="HW Multimedia">
+-      <change afterPath="$PROJECT_DIR$/Home/HW_2/.gitignore" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Home/HW_2/.idea/HW_2.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Home/HW_2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Home/HW_2/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Home/HW_2/.idea/vcs.xml" beforeDir="false" />
++    <list default="true" id="ebc621a1-1a37-40e5-a5f5-bfea3447b722" name="Default Changelist" comment="Multimedia">
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/.idea/WEB1.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_1/hello.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_1/Снимок экрана 2020-10-10 в 22.26.57.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2_Multimedia/img/Icon-Python.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2_Multimedia/img/home.gif" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2_Multimedia/img/next.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2_Multimedia/img/prev.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2_Multimedia/mm.html" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2_Multimedia/mm_2.html" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/HW_2_Multimedia/mm_3.html" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Home/yushsviataslau/Home/yushsviataslau" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Home/yushsviataslau" beforeDir="false" afterPath="$PROJECT_DIR$/Home/yushsviataslau" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Home/yushsviataslau/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Home/yushsviataslau/.idea/modules.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Home/yushsviataslau/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Home/yushsviataslau/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Home/yushsviataslau/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Home/yushsviataslau/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="ChangesViewManager">
++    <option name="groupingKeys">
++      <option value="directory" />
++    </option>
++  </component>
++  <component name="Git.Pull.Settings">
++    <option name="BRANCH" value="main" />
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="ROOT_SYNC" value="SYNC" />
+   </component>
+   <component name="ProjectId" id="1iqC8oGQ5yoYh1QayPMhtAb2AW2" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -48,7 +81,10 @@
+       <workItem from="1602625582419" duration="1465000" />
+       <workItem from="1604404294060" duration="209000" />
+       <workItem from="1604404567280" duration="584000" />
+-      <workItem from="1604405305511" duration="360000" />
++      <workItem from="1604405305511" duration="813000" />
++      <workItem from="1604406130130" duration="1517000" />
++      <workItem from="1604408392613" duration="811000" />
++      <workItem from="1604409761751" duration="859000" />
+     </task>
+     <task id="LOCAL-00001" summary="first hw">
+       <created>1602626143112</created>
+@@ -64,7 +100,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1604404762594</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="HW">
++      <created>1604405757415</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1604405757415</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -75,7 +118,19 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/main" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>
+@@ -84,17 +139,24 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="first hw" />
++    <MESSAGE value="HW" />
+     <MESSAGE value="HW Multimedia" />
+-    <option name="LAST_COMMIT_MESSAGE" value="HW Multimedia" />
++    <MESSAGE value="HW Multim" />
++    <MESSAGE value="Multimedia" />
++    <option name="LAST_COMMIT_MESSAGE" value="Multimedia" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="144" y="79" key="DiffContextDialog" timestamp="1604404893635">
++    <state x="144" y="79" key="DiffContextDialog" timestamp="1604405783583">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1604405783583" />
++    <state x="361" y="218" key="MultipleFileMergeDialog" timestamp="1604409167680">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1604404893635" />
+-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604405662467">
++    <state x="361" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1604409167680" />
++    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604410262106">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604405662467" />
++    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604410262106" />
+   </component>
+ </project>
+\ No newline at end of file
